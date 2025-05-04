@@ -10,8 +10,8 @@ from telegram.ext import (
 import urllib.parse
 
 # Token e Grupo
-TOKEN = "7802698956:AAFkdzLqj35RwLA2dDcsAxnmRnDr3ZcQkKs"
-ID_GRUPO_SUPORTE = -4102182375
+TOKEN = ""
+ID_GRUPO_SUPORTE = -121221
 
 # Função para limpar URL
 def limpar_url(url):
